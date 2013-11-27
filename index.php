@@ -1,2 +1,2 @@
 <?php
-include_once("./app/index.html");
+include_once("app/index.html");
